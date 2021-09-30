@@ -1,0 +1,13 @@
+{
+	"targets": {
+		"Dentacoin (DCN)": {
+			"name": "Dentacoin (DCN)",
+			"address": "0xfd6ab60e0744e95c35fb17afda478eeae3835ddf",
+			"source": "Dentacoin (DCN)",
+			"link": "https://kovan-explorer.optimism.io/address/0xfd6ab60e0744e95c35fb17afda478eeae3835ddf",
+			"timestamp": "Sep-29-2021 07:21:44 AM +UTC",
+			"txn": "",
+			"network": "kovan"
+		},
+	}
+}
